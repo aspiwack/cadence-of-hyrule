@@ -15,6 +15,14 @@ wiki](https://zelda.gamepedia.com/Bosses_in_Cadence_of_Hyrule#Minibosses).
 Find information about individual bosses in [the
 wiki](https://zelda.gamepedia.com/Bosses_in_Cadence_of_Hyrule#Bosses).
 
+The [Instrument dungeon](./dungeons.md#instrument-dungeons) bosses
+have two variants: a standard variant, and a more powerful variant
+(nicknamed bossname 2 by the community).
+
+- The first two you beat are the standard variant, the last two are
+  the second variant
+- In permadeath mode, all the bosses are the second variant instead
+
 ### Flawless boss battles
 
 A boss battle is _flawless_ if the boss is beaten without missing a
