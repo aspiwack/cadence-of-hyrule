@@ -63,4 +63,4 @@ Floors structure:
 
 Each floor has 1 blue chest containing a random [legendary weapon](./weapons.md#legendary-weapons).
 
-[strat-spreadsheet](https://docs.google.com/spreadsheets/d/1b__dOfJ5CI7dbdxdohAtw1MherHCLJwaouWyJr7EuRw/)
+[strat-spreadsheet]: https://docs.google.com/spreadsheets/d/1b__dOfJ5CI7dbdxdohAtw1MherHCLJwaouWyJr7EuRw/
